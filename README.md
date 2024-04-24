@@ -7,7 +7,7 @@ Document upload: Users can upload documents with titles and descriptions.
 Document management: Users can view, edit, and delete their own documents.
 Responsive design: The application is designed to work well on both desktop and mobile devices.
 Installation:
-Clone the repository: git clone <repository-url>
+Clone the repository: git clone https://github.com/adibo32/Upload_Docu.git
 Navigate to the project directory: cd document_management_system
 Install dependencies: pip install -r requirements.txt
 Run migrations: python manage.py migrate
@@ -29,7 +29,7 @@ Dokumentenupload: Benutzer können Dokumente mit Titeln und Beschreibungen hochl
 Dokumentenverwaltung: Benutzer können ihre eigenen Dokumente anzeigen, bearbeiten und löschen.
 Responsive Design: Die Anwendung ist so gestaltet, dass sie sowohl auf Desktop- als auch auf Mobilgeräten gut funktioniert.
 Installation:
-Klonen Sie das Repository: git clone <repository-url>
+Klonen Sie das Repository: git clone https://github.com/adibo32/Upload_Docu.git
 Navigieren Sie zum Projektverzeichnis: cd document_management_system
 Installieren Sie die Abhängigkeiten: pip install -r requirements.txt
 Führen Sie Migrationen durch: python manage.py migrate
